@@ -1,0 +1,5 @@
+[plugin]
+description = "Set nginx proxy timeout to 10 minutes"
+version = "1.0.0"
+[plugin.config]
+
